@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Menu {
-	// Create single instance for file reader
+	// Create single instance
 	ReadFileData readFileData = ReadFileData.getInstance();
 
 	// Read data from files
